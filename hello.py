@@ -1,2 +1,3 @@
-print("hello world")
-print("Purveshsantoshdesai")
+a=3
+b=4
+print(a+b)
